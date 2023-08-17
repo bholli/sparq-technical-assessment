@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sparq-technical-assessment", "sparq-technical-assessment\sparq-technical-assessment.csproj", "{1A29F1D7-763E-48F8-9038-2B5D72A2394E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A29F1D7-763E-48F8-9038-2B5D72A2394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A29F1D7-763E-48F8-9038-2B5D72A2394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A29F1D7-763E-48F8-9038-2B5D72A2394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A29F1D7-763E-48F8-9038-2B5D72A2394E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D961875-B663-4F9C-859F-D3B5DDB520E5}
+	EndGlobalSection
+EndGlobal
